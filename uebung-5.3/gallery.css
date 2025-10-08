@@ -45,13 +45,13 @@
     grid-row: 2 / span 1;
 }
 
-/* Bild 5: Nostalgisches Dampfschiff auf dem Genfersee (Mittel: 2x1) */
+/* Bild 5: Nostalgisches Dampfschiff auf dem Genfersee (Mittel: 1x1) */
 #gallery > figure:nth-child(5) {
     grid-column: span 1;
     grid-row:  span 1;
 }
 
-/* Bild 6: Tiefblauer Brienzersee im Hochsommer (Gross: 2x2) */
+/* Bild 6: Tiefblauer Brienzersee im Hochsommer (Gross: 2x1) */
 #gallery > figure:nth-child(6) {
     grid-column: span 2;
     grid-row:  span 1;
@@ -70,14 +70,14 @@
     grid-row:  span 1;
 }
 
-/* Bild 9: Mystisches Lauterbrunnen im Morgengrauen (Standard: 1x1) */
+/* Bild 9: Mystisches Lauterbrunnen im Morgengrauen (Standard: 2x2) */
 #gallery > figure:nth-child(9) {
 
     grid-column:  span 2;
     grid-row: span 2;
 }
 
-/* Bild 10: Flug über die Alpen (Standard: 1x1) */
+/* Bild 10: Flug über die Alpen (Standard: 2x1) */
 #gallery > figure:nth-child(10) {
 
     grid-column:  span 2;

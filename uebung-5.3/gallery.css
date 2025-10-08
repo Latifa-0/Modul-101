@@ -23,7 +23,7 @@
 
 
 
-/* Bild 1:Historische Steinbrücke im Wallis (Groß: 2x2) */
+/* Bild 1:Historische Steinbrücke im Wallis (Gross: 2x2) */
 #gallery > figure:nth-child(1) {
     grid-column: span 2;
     grid-row: span 2;
@@ -51,7 +51,7 @@
     grid-row:  span 1;
 }
 
-/* Bild 6: Tiefblauer Brienzersee im Hochsommer (Groß: 2x2) */
+/* Bild 6: Tiefblauer Brienzersee im Hochsommer (Gross: 2x2) */
 #gallery > figure:nth-child(6) {
     grid-column: span 2;
     grid-row:  span 1;

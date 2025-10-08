@@ -31,11 +31,15 @@
 
 /* Bild 2: Schloss Oberhofen (Standard: 1x1) */
 #gallery > figure:nth-child(2) {
+    grid-column: span 1;
+    grid-row: span 1;
 
 }
 
 /* Bild 3: Sonnenuntergang Zürichsee (Standard: 1x1) */
 #gallery > figure:nth-child(3) {
+    grid-column: span 1;
+    grid-row: span 1;
 
 }
 
